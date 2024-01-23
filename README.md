@@ -11,12 +11,11 @@
 
 ### back-end
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white&label=PHP)
-
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&label=PHP)
 
 ## Contact
 
-**LinkedIn :** ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-d-428a9629b/)
+**Mon LinkedIn :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-d-428a9629b/)
 
 
 
