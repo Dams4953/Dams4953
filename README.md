@@ -16,7 +16,7 @@
 
 ## Contact
 
-**Mon LinkedIn :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-d-428a9629b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-d-428a9629b/)
 
 
 
