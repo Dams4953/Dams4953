@@ -8,7 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=flat-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ### back-end
