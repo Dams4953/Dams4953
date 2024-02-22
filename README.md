@@ -2,7 +2,7 @@
 
 ##
 
-En formation chez BeCode, je me spécialise en développement web (HTML, SASS, CSS, JavaScript, PHP, SQL, Tailwind, GIT). À la recherche d'un stage de trois mois à partir de juin, ma polyvalence s'étend de la création esthétique de sites web à la gestion des bases de données. La pédagogie pratique de BeCode développe mes compétences en travail d'équipe et résolution de problèmes.
+In training at BeCode, I specialize in web development (HTML, SASS, CSS, JavaScript, PHP, SQL, Tailwind, GIT). Looking for a three-month internship starting in June, my versatility extends from the aesthetic creation of websites to database management. The practical pedagogy of BeCode develops my skills in teamwork and problem solving.
 
 ## Languages
 
