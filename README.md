@@ -1,5 +1,9 @@
 # Welcome to my GitHub profile !
 
+##
+
+En formation chez BeCode, je me spécialise en développement web (HTML, SASS, CSS, JavaScript, PHP, SQL, Tailwind, GIT). À la recherche d'un stage de trois mois à partir de juin, ma polyvalence s'étend de la création esthétique de sites web à la gestion des bases de données. La pédagogie pratique de BeCode développe mes compétences en travail d'équipe et résolution de problèmes.
+
 ## Languages
 
 ### front-end
