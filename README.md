@@ -27,7 +27,7 @@ In training at BeCode, I specialize in web development and soon mobile. Looking 
 
 
 
-## 📌futur skills
+## 📌Futur skills
 
 ### Languages & Frameworks
 
