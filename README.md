@@ -1,8 +1,5 @@
 # Welcome to my GitHub profile !
 
-In training at BeCode, I specialize in web development and soon mobile. Looking for a three-month internship starting in June, my versatility extends from the aesthetic creation of websites to database management. The practical pedagogy of BeCode develops my skills in teamwork and problem solving.
-
-
 ## 📌Skills
 
 ### Languages & Frameworks
