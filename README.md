@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=25&duration=2500&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=435&lines=Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
 
 ## 📌Skills
 
