@@ -20,7 +20,9 @@
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Git](https://git-scm.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) 
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Android Studio](https://developer.android.com/studio?hl=fr)
+- [Expo Go](https://expo.dev/go) 
 
 ## 📌Futur skills
 
