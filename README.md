@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=25&duration=2500&pause=5000&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
 
+Actuellement, je travaille sur une application ToDoList mobile en utilisant React Native pour le frontend et Node.js avec Express pour le backend, afin de m'exercer et d'améliorer mes compétences en développement.
+
+Si cela vous intéresse, vous pouvez jeter un œil au dépôt associé :
+- [ToDoList Mobile](https://github.com/Dams4953/todolist2.0)
+
 ## 📌Skills
 
 ### Languages & Frameworks
@@ -11,6 +16,10 @@
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sql&logoColor=white)](https://sql.sh/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 
 ### Tools
@@ -23,15 +32,6 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio?hl=fr)
 - [Expo Go](https://expo.dev/go) 
-
-## 📌Futur skills
-
-### Languages & Frameworks
-
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 
 ## 📌Platforms & Contact
