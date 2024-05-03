@@ -16,8 +16,6 @@ Si cela vous intéresse, vous pouvez jeter un œil au dépôt associé :
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sql&logoColor=white)](https://sql.sh/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
