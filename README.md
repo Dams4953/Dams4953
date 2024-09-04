@@ -20,13 +20,13 @@
 <br>
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/)
 <br>
-        ↪︎ [![Elementor](https://img.shields.io/badge/Elementor-%230A67F2.svg?style=flat-square&logo=elementor&logoColor=white)](https://elementor.com/)
+        ↪︎ **Elementor**
         <br>
-        ↪︎ [![ACF](https://img.shields.io/badge/ACF-%23313D3F.svg?style=flat-square&logo=advanced-custom-fields&logoColor=white)](https://www.advancedcustomfields.com/)
+        ↪︎ **CPT UI**
         <br>
-        ↪︎ [![CPT UI](https://img.shields.io/badge/CPT_UI-%232D2D2D.svg?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/custom-post-type-ui/)
+        ↪︎ **ACF**
         <br>
-        ↪︎ [![Shortcodes Ultimate](https://img.shields.io/badge/Shortcodes_Ultimate-%230A67F2.svg?style=flat-square&logo=wordpress&logoColor=white)](https://getshortcodes.com/)
+        ↪︎ **Shortcodes php**
 
 ### Tools
 
