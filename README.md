@@ -34,6 +34,9 @@
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 - [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Bdeaver](https://dbeaver.io/)
+- [FileZilla](https://filezilla-project.org/)
+- [ManageWP](https://managewp.com/)
 
 
 ## 📌Platforms & Contact
