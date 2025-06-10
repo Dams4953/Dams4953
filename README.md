@@ -20,13 +20,7 @@
 <br>
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/)
 <br>
-        ↪︎ **Elementor**
-        <br>
-        ↪︎ **CPT UI**
-        <br>
-        ↪︎ **ACF**
-        <br>
-        ↪︎ **Shortcodes php**
+      
 
 ### Tools
 
