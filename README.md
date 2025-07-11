@@ -14,26 +14,13 @@
 <br>
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 <br>
-[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sql&logoColor=white)](https://sql.sh/)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 <br>
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sql&logoColor=white)](https://sql.sh/)
 <br>
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)](https://wordpress.org/)
 <br>
-      
-
-### Tools
-
-- [Laragon](https://laragon.org/index.html)
-- [PhpMyAdmin](https://www.phpmyadmin.net/)
-- [Git](https://git-scm.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Bdeaver](https://dbeaver.io/)
-- [FileZilla](https://filezilla-project.org/)
-- [ManageWP](https://managewp.com/)
-
 
 ## 📌Platforms & Contact
 
-[![CodeWars](https://www.codewars.com/users/Dams4953/badges/micro)](https://www.codewars.com/users/Dams4953)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=rounded-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-dieu/)
