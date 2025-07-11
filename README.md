@@ -35,13 +35,3 @@
   <a href="https://sql.sh/"><img src="https://img.shields.io/badge/SQL-00f?style=flat&logo=sql&logoColor=white"/></a>
   <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/></a>
 </p>
-
----
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/damien-dieu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
