@@ -13,7 +13,6 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></a>
 </p>
 
 <p align="left"><strong>JavaScript</strong></p>
